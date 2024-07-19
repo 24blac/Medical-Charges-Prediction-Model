@@ -11,3 +11,5 @@ Key features:
 - Residual analysis for model validation
 
 Technologies: Python, pandas, numpy, scikit-learn, matplotlib, seaborn
+
+Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance/data
